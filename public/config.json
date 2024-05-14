@@ -1,5 +1,5 @@
 {
-  "dataApiHostName": "seai-api-poc.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "apic-dihcnajh746a4.data.westeurope.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
       "clientId": "49f62a15-ca36-4083-9af4-c994e0774039",
